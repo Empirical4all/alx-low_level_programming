@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 /**
@@ -20,7 +21,7 @@ else
 putchar(lw);
 lw += 1;
 }
-OAOAOA}
+}
 putchar('\n');
 return (0);
-OAOAOA}
+}
